@@ -1,0 +1,39 @@
+@import url(//itzmarni.github.io/css-snippets/UserReimagined/import.css);
+.container_ca50b9 > .flex_f5fbb7 {
+  position: relative;
+  padding-top: 12px;
+  margin-bottom: -38px;
+  transition: .2s ease;
+}
+.container_ca50b9 > .flex_f5fbb7:hover {
+  margin-bottom: 0;
+  padding-top: 6px;
+}
+.container_ca50b9 > .flex_f5fbb7::before {
+  content: "";
+  position: absolute;
+  width: 15px;
+  height: 3px;
+  background-color: var(--interactive-muted);
+  top: 7px;
+  left: calc(50% + 1px);
+  border-radius: 50px;
+  transform: rotate(12deg) translateX(-100%);
+  transition: .2s ease;
+}
+.container_ca50b9 > .flex_f5fbb7::after {
+  content: "";
+  position: absolute;
+  width: 15px;
+  height: 3px;
+  background-color: var(--interactive-muted);
+  top: 7px;
+  right: calc(50% + 1px);
+  border-radius: 50px;
+  transform: rotate(-12deg) translateX(100%);
+  transition: .2s ease;
+}
+.container_ca50b9 > .flex_f5fbb7:hover::before,
+.container_ca50b9 > .flex_f5fbb7:hover::after {
+  opacity: 0;
+}

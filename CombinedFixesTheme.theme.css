@@ -1,0 +1,15 @@
+/**
+ * @name Combined Fixes
+ * @author ItzMarni, credits provided on the repo
+ * @description Multiple fixed for Discord's stupid bullshit
+ * @source https://github.com/ItzMarni/css-snippets
+ * @version 1.0.0
+ */
+
+@import url(//itzmarni.github.io/css-snippets/UserReimagined/import.css);
+@import url(//itzmarni.github.io/css-snippets/NoLightInDark/import.css);
+@import url(//itzmarni.github.io/css-snippets/NewIconsRevert/import.css);
+@import url(//itzmarni.github.io/css-snippets/MultipleScreensFix/import.css);
+@import url(//itzmarni.github.io/css-snippets/ColoredBorder/import.css);
+@import url(//itzmarni.github.io/css-snippets/BetterModals/import.css);
+@import url(//itzmarni.github.io/css-snippets/BetterAuthApps/import.css);

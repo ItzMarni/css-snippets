@@ -1,0 +1,12 @@
+html:not(.app-focused) .isUnread-3Lojb- {
+  border-color: transparent
+}
+.isUnread-3Lojb- {
+  transition: .15s
+}
+html:not(.app-focused) .newMessagesBar-1hF-9G {
+  opacity: 0
+}
+.newMessagesBar-1hF-9G {
+  transition: .15s
+}
