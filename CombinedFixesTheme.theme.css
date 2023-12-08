@@ -3,7 +3,7 @@
  * @author ItzMarni, credits provided on the repo
  * @description Multiple fixed for Discord's stupid bullshit
  * @source https://github.com/ItzMarni/css-snippets
- * @version 1.0.0
+ * @version 1.1.0
  */
 
 @import url(//itzmarni.github.io/css-snippets/UserReimagined/import.css);
@@ -13,3 +13,4 @@
 @import url(//itzmarni.github.io/css-snippets/ColoredBorder/import.css);
 @import url(//itzmarni.github.io/css-snippets/BetterModals/import.css);
 @import url(//itzmarni.github.io/css-snippets/BetterAuthApps/import.css);
+@import url(//itzmarni.github.io/css-snippets/AddonsCounter/import.css);
